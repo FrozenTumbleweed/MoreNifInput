@@ -12,6 +12,7 @@ MoreNifInput 用于把大量 mod 中的 NIF 文件批量导入 Blender，并在�
 
 - Blender 5.1.2
 - Windows 10 64 位
+使用了上古卷轴5的一些mod进行测试，其他使用nif的游戏（例如辐射4）可能也能正常工作
 
 插件未在其他环境中测试，可能出现未知问题。
 
