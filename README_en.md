@@ -31,6 +31,8 @@ The red box indicates the main part, and the blue box indicates the separated se
 
 **When there are too many NIF files, the import time may be extremely long.**
 
+5. Some nif files may fail to import. In this case, all nif files within the mod will be canceled from import, and a cube mesh will be used to indicate the error
+
 ## 4. Finding the File Location Corresponding to a Model
 
 After selecting the target model in Blender, the collection hierarchy and collection names in the Outliner correspond to its file path.
