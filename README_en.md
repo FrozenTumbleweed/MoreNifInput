@@ -12,6 +12,7 @@ The final result aims to present the mods and models in the library in a form th
 
 - Blender 5.1.2
 - Windows 10 64-bit
+Some mods for The Elder Scrolls V were used for testing, and other games that utilize NIF files (such as Fallout 4) may also function properly
 
 The plugin has not been tested in other environments and may exhibit unknown issues.
 
